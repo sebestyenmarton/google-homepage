@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+<h1><b>Google WebSearch Homepage</b><h1>
+
+<h3>This homepepage is an imitation of google homepage.
+using the ReactJs</h3> <br></br>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
