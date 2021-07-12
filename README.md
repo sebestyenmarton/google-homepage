@@ -1,4 +1,4 @@
-<h1><b>Google WebSearch Homepage</b><h1>
+<h1><b>Google Homepage</b><h1>
 
 <h3>This homepepage is an imitation of google homepage.
 using the ReactJs</h3> <br></br>
