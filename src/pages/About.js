@@ -4,7 +4,7 @@ import { Container } from '../styles/center';
 const About = () => {
   return (
     <Container>
-      <h1>About</h1>
+      <h1>Adatvédelem</h1>
     </Container>
   );
 };

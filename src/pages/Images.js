@@ -4,7 +4,7 @@ import { Container } from '../styles/center';
 const Images = () => {
   return (
     <Container>
-      <h1>Images</h1>
+      <h1>Képek</h1>
     </Container>
   );
 };

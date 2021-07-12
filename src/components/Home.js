@@ -128,7 +128,7 @@ const Home = () => {
         />
       </LogoSection>
       <SearchSection>
-        <Form action='/' method='GET' role='search'>
+        <Form action='/' method='GET' role='search' >
           <Search>
             <SearchIcon>
               <svg
@@ -164,8 +164,8 @@ const Home = () => {
           </Search>
         </Form>
         <ButtonSection>
-          <button>Google Search</button>
-          <button>I'm Feeling Lucky</button>
+          <button>Google keresés</button>
+          <button>Jó napom van</button>
         </ButtonSection>
       </SearchSection>
     </Container>
